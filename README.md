@@ -1,4 +1,4 @@
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Nakkinakki55/posts.svg)](http://qiita.com/Nakkinakki55) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Nakkinakki55/contributions.svg)](http://qiita.com/Nakkinakki55) [![My Qiita followers](https://qiita-badge.apiapi.app/s/Nakkinakki55/followers.svg)](http://qiita.com/Nakkinakki55)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Nakkinakki55/posts.svg)](http://qiita.com/nishifeoda) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nishifeoda/contributions.svg)](http://qiita.com/nishifeoda) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nishifeoda/followers.svg)](http://qiita.com/nishifeoda)
 
 <p>
   <a href="https://twitter.com/nishifeoda" target="_blank">
